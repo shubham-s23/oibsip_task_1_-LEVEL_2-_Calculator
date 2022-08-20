@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    margin-top: 24px;
+    background-color: rgb(100, 142, 128);
+  
+}
+h1{
+    background-color: rgba(32, 2, 2, 0.797);
+    margin: 30px auto;
+    font-size: 50px;
+    color: white;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 30px;
+    height: 50px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid rgb(206, 63, 63);
+    border-radius: 25px;
+}
+button{
+    font-size: 35px;
+    background:#85b9f5eb;
+    width: 100px;
+    height: 60px;
+    border-radius: 25px;
+    margin: 5px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.calculator{
+    border: 2px solid rgb(255, 255, 255);
+    display: inline-block;   
+    padding: 5px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.697);
+    margin-bottom: 100px;
+}
